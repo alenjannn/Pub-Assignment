@@ -7,7 +7,7 @@
 
 ## Live Website Link
 
-View the website here: https://cmsc-100-2s-ay2024-2025.github.io/exer-01-html-and-css-binsalen/
+View the website here: [https://cmsc-100-2s-ay2024-2025.github.io/exer-01-html-and-css-binsalen/](https://alenjannn.github.io/Pub-Assignment/)
 
 ## Steps In Creating GitHub Pages
 
